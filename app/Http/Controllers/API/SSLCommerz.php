@@ -2,8 +2,7 @@
 namespace App\Http\Controllers\API;
 
 # For Live
-//define("SSLCZ_STORE_ID", "dailyservicelive ");
-//define("SSLCZ_STORE_PASSWD", "6093787E1873698223");
+
 
 # For SANDBOX
 define("SSLCZ_STORE_ID", "taxol5c7cf3257d623");
