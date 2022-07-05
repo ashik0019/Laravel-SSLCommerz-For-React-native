@@ -1,3 +1,8 @@
+<h3>Note: If need more example see this link:</h3> https://github.com/ashik0019/sslcommerz_Integration_in_Laravel-5.6-with-IPN
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -78,4 +83,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-Note: If need more example see this link: https://github.com/ashik0019/sslcommerz_Integration_in_Laravel-5.6-with-IPN
